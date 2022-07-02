@@ -2,6 +2,6 @@
 #
 #    pip-compile
 #
-flask==3.0.10
+flask==2.1.2
 pandas==1.4.2
 pymssql==2.2.5
